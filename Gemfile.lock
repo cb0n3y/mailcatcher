@@ -21,7 +21,7 @@ GEM
       aws-eventstream (~> 1, >= 1.0.2)
     bcrypt_pbkdf (1.1.0)
     bindata (2.4.10)
-    bolt (3.22.1)
+    bolt (3.27.4)
       CFPropertyList (~> 2.2)
       addressable (~> 2.5)
       aws-sdk-ec2 (~> 1)
@@ -313,7 +313,7 @@ GEM
       minitar
       semantic_puppet (~> 1.0)
     puppet_litmus (0.33.2)
-      bolt (>= 2.0.1, < 4.0.0)
+      bolt (>= 3.27.4, < 4.0.0)
       docker-api (>= 1.34, < 3.0.0)
       honeycomb-beeline
       parallel
